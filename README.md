@@ -1,4 +1,4 @@
-# CPE-EC2-ETL-ELT
+# Cryptocurrency Price Tracker 
 CPE-EC2-Final-Project by Ser Adriane Vincent B. Jugo
 
 CPE-EC2-ETL-ELT/                <--  main GitHub Repository
